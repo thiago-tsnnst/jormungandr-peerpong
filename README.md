@@ -31,4 +31,4 @@ PINGS=10
 bash ./peerpong.sh
 ```
 
-As always, please fork, fix and imrpove. 
+As always, please fork, fix and improve. 
