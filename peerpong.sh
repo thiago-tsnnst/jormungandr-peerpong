@@ -15,7 +15,7 @@
 # file format: location <space> ip_addresss
 # location name must be 5 characters.
 
-PEERS=/home/coconut/scripts/peers.txt
+PEERS=/path/to/peers.txt
 
 # how many times do you want to ping the target peer
 PINGS = 10
